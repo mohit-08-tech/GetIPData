@@ -107,7 +107,7 @@ html {
   height: 297px;
   width: 507.5px;
   margin-top: 2em;
-  margin-left: 2em;
+  margin-left: -20%;
   z-index: 10;
   -webkit-animation: sprite-animation 1.2s steps(16, end) infinite;
   -moz-animation: sprite-animation 1.2s steps(16, end) infinite;
